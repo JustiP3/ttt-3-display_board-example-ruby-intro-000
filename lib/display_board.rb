@@ -6,5 +6,3 @@ puts "#{current_board[3]}|#{current_board[4]}|#{current_board[5]}"
 puts "-----------"
 puts "#{current_board[6]}|#{current_board[7]}|#{current_board[8]}"
 end
-
-
